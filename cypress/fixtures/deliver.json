@@ -1,0 +1,54 @@
+{
+    "signup":{
+        "name": "Danilo Barboza",
+        "cpf": "44422874596",
+        "email": "danilo@hotmail.com",
+        "whatsapp": "14999998775",
+        "address":{
+            "postalcode": "17208082",
+            "street": "Avenida Joaquim Ferraz de Camargo",
+            "number": "1000",
+            "details": "Casa 1",
+            "district": "Jardim Netinho Prado",
+            "city_state": "Jaú/SP"
+        }, 
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Amanda Guerra",
+        "cpf": "X44228745AB",
+        "email": "amanda@hotmail.com",
+        "whatsapp": "14999998775",
+        "address":{
+            "postalcode": "17208082",
+            "street": "Avenida Joaquim Ferraz de Camargo",
+            "number": "1000",
+            "details": "Casa 1",
+            "district": "Jardim Netinho Prado",
+            "city_state": "Jaú/SP"
+        }, 
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "email_inv":{
+        
+        "name": "Danilo Barboza",
+        "cpf": "44422874596",
+        "email": "danilo.com",
+        "whatsapp": "14999998775",
+        "address":{
+            "postalcode": "17208082",
+            "street": "Avenida Joaquim Ferraz de Camargo",
+            "number": "1000",
+            "details": "Casa 1",
+            "district": "Jardim Netinho Prado",
+            "city_state": "Jaú/SP"
+        }, 
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+    }
+    
+
